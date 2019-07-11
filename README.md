@@ -32,3 +32,12 @@ Things I should do for my personal growth
 - [ ] CFA Level 1 (2019) - Complete Alternative Investments
 - [ ] CFA Level 1 (2019) - Complete Portfolio Management
 
+## Other Books
+- Amish Tripathi
+  - [X] The Immortals of Meluha
+  - [X] The Secret of the Nagas
+  - [X] The Oath of the Vayuputras
+  - [X] Ram : Scion of Ikshvaku
+  - [X] Sita : Warrior of Mithila
+  - [X] Raavan : Enemy of Aryavarta
+- 
